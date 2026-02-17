@@ -157,7 +157,7 @@ Schema   : RAW
 
 
 📊 Sample Final Report Output
+<img width="1525" height="357" alt="image" src="https://github.com/user-attachments/assets/0231c942-5024-4737-b165-2c9bafa99fa4" />
 
-<img width="763" height="179" alt="image" src="https://github.com/user-attachments/assets/ec0fb530-ed02-4a64-8bd6-cf0382d83333" />
 
 
