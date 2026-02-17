@@ -12,7 +12,8 @@ conn = snowflake.connector.connect(
 
 cursor = conn.cursor()
 
-df = pd.read_csv("data/orders.csv")
+df = df = pd.read_csv("../data/orders.csv")
+
 
 for _, row in df.iterrows():
     query = f"""
