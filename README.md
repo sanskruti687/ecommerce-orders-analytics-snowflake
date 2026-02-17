@@ -151,11 +151,13 @@ Schema   : RAW
 🎉 Data inserted successfully into Snowflake!
 🔒 Connection closed
 
+<img width="763" height="179" alt="image" src="https://github.com/user-attachments/assets/2fea08a7-50e2-46c7-b685-1473cae0ea5f" />
 
-![alt text](image.png)
+
 
 
 📊 Sample Final Report Output
 
-![alt text](image-1.png)
+<img width="763" height="179" alt="image" src="https://github.com/user-attachments/assets/ec0fb530-ed02-4a64-8bd6-cf0382d83333" />
+
 
